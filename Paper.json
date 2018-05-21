@@ -1,0 +1,39 @@
+{Paper1:[
+        {
+                "Qid": "1",
+                "Quastion":"What is int?",
+                "a": "keyword",
+                "b": "datatyle",
+                "c": "not avabale in c",
+                "d": "a and b"
+                
+        },
+        {
+                "Qid": "2",
+                "Quastion":"Quastion2sdfasf",
+                "a": "keyword",
+                "b": "datatyle",
+                "c": "not aasfvabale in c",
+                "d": "a and b"
+                
+        },
+        {
+                "Qid": "3",
+                "Quastion":"Quastion3sdfsdf",
+                "a": "keywsadford",
+                "b": "datatsfdyle",
+                "c": "not sdfavabale in c",
+                "d": "a ansdfsadfd b"
+                
+        },
+        {
+                "Qid": "4",
+                "Quastion":"Quastion4xzbsdfvbsjhhvjabhsvfdjhsdf",
+                "a": "kdf",
+                "b": "datsdsdffgdatyle",
+                "c": "not avasdfabdfgdgale in c",
+                "d": "a ansdfsdfdfgd b"
+                
+        }
+    ]
+}
